@@ -20,7 +20,7 @@
 /* Colors */
 :root {
   --color-default: #364d59;
-  --color-primary: #feb900;
+  --color-primary: #017fe6;
   --color-secondary: #52565e;
 }
 
@@ -44,8 +44,12 @@ a {
 }
 
 a:hover {
-  color: #ffc732;
+  color: #017fe6;
   text-decoration: none;
+}
+
+.bi-quote::before, .bi-star-fill::before {
+  color: #017fe6 !important;
 }
 
 h1,
@@ -184,7 +188,7 @@ section {
 
 .scroll-top i {
   font-size: 24px;
-  color: var(--color-secondary);
+  color: #fff;
   line-height: 0;
 }
 
