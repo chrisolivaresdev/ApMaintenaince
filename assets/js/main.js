@@ -1,9 +1,9 @@
 /**
-* Template Name: UpConstruction
+* Template Name: ApMaintenances
 * Updated: Mar 10 2023 with Bootstrap v5.2.3
-* Template URL: https://bootstrapmade.com/upconstruction-bootstrap-construction-website-template/
-* Author: BootstrapMade.com
-* License: https://bootstrapmade.com/license/
+* Template URL: https://ApMaintenances.com/ApMaintenances-bootstrap-construction-website-template/
+* Author: ApMaintenances.com
+* License: https://ApMaintenances.com/license/
 */
 document.addEventListener('DOMContentLoaded', () => {
   "use strict";
