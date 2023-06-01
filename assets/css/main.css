@@ -112,6 +112,8 @@ section {
   }
 }
 
+
+
 /*--------------------------------------------------------------
 # Breadcrumbs
 --------------------------------------------------------------*/
@@ -1379,7 +1381,7 @@ section {
 .services-cards h3 {
   font-size: 20px;
   font-weight: 700;
-  color: var(--color-secondary);
+  color: var(--color-primary);
 }
 
 .services-cards p {
@@ -2669,6 +2671,11 @@ section {
 
 .footer .footer-legal .credits a {
   color: var(--color-primary);
+}
+
+.container-footer{
+  display: flex;
+    justify-content: space-between;
 }
 
 section#shadow-host-companion {
