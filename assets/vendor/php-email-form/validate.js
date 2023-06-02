@@ -1,7 +1,7 @@
 /**
 * PHP Email Form Validation - v3.6
-* URL: https://ApMaintenances.com/php-email-form/
-* Author: ApMaintenances.com
+* URL: https://AP BUILDING MAINTENENCE.com/php-email-form/
+* Author: AP BUILDING MAINTENENCE.com
 */
 (function () {
   "use strict";
