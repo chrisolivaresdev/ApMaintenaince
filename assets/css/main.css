@@ -2486,6 +2486,10 @@ section {
     justify-content: space-between;
 }
 
+.title-footer{
+  color: var(--color-primary);
+}
+
 section#shadow-host-companion {
   display: none;
 }
